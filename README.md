@@ -52,3 +52,7 @@ The Retentions Manager has provided some information in the resources.
 Continuously iterate and refine the report based on feedback from stakeholders and users.
 
 Incorporate any additional requirements or modifications to enhance the report's effectiveness and relevance.
+
+
+![Dashboard 1](https://github.com/user-attachments/assets/03456017-2d39-4ec1-9141-04646498f8f7)
+![Dashboard 2 ](https://github.com/user-attachments/assets/413b8e0a-28ea-4c3f-90a3-d08a78d4505b)

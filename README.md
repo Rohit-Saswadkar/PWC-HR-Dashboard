@@ -53,6 +53,6 @@ Continuously iterate and refine the report based on feedback from stakeholders a
 
 Incorporate any additional requirements or modifications to enhance the report's effectiveness and relevance.
 
+![Hr Dashboard 1](https://github.com/user-attachments/assets/0a73398b-a392-4c12-9e1a-f30cff164e50)
 
-![Dashboard 1](https://github.com/user-attachments/assets/03456017-2d39-4ec1-9141-04646498f8f7)
-![Dashboard 2 ](https://github.com/user-attachments/assets/413b8e0a-28ea-4c3f-90a3-d08a78d4505b)
+![Hr Dashboard 2](https://github.com/user-attachments/assets/a16ffaa2-f5eb-41de-a732-a0bf51140371)
